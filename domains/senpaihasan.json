@@ -1,9 +1,10 @@
 {
+  "description": "Portfolio site for Senpai Hasan",
   "owner": {
     "username": "mdhasan106950-alt",
     "email": "mdhasan106950@gmail.com"
   },
-  "records": {
-    "CNAME": "mdhasan106950-alt.github.io"
+  "record": {
+    "CNAME": "mdhasan106950-alt.github.io/my-portfolio-/"
   }
 }
